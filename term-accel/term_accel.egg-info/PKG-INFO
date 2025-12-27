@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: term-accel
+Version: 0.1
+Summary: Mac终端代理一键管理工具
+Home-page: 
+Author: 
+Author-email: 
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS
+Requires-Python: >=3.6
+Description-Content-Type: text/plain
+Requires-Dist: click>=8.0
+Requires-Dist: requests>=2.31.0
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+用于Mac终端的代理一键管理工具，支持git/pip/npm/brew等工具的代理配置管理

@@ -1,0 +1,11 @@
+setup.py
+term_accel/__init__.py
+term_accel/cli.py
+term_accel/config.py
+term_accel/proxy.py
+term_accel.egg-info/PKG-INFO
+term_accel.egg-info/SOURCES.txt
+term_accel.egg-info/dependency_links.txt
+term_accel.egg-info/entry_points.txt
+term_accel.egg-info/requires.txt
+term_accel.egg-info/top_level.txt
